@@ -1,0 +1,28 @@
+h1{
+    color: aqua;
+    background-color: black;
+
+}
+ul{
+    background-color: red;
+    color: blue;
+}
+#first{
+    background-color: rgb(131, 131, 171);
+    font-size: 20px;
+}
+.second{
+    color: chocolate;
+    background-color: blue;
+}
+
+
+h1[draggable="true"]{
+    background-color: chartreuse;
+}
+div>p{
+    background-color: brown;
+}
+div li{
+    color: black;
+}
