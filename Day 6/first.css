@@ -1,0 +1,35 @@
+#first{
+    background-color: rgb(212, 162, 97);
+    height: 100px;
+    width: 100%;
+    margin-top:180px ;
+    margin-left: 200px;
+}
+.box1{
+    background-color: red;
+     height: 100px;
+     width: 100px;
+     display: inline-block;
+}
+.box2{
+    background-color: navy;
+     height: 100px;
+     width: 100px;
+     display: inline-block;
+     position: fixed;
+     top: 4px;
+     /* top: 6px; */
+     /* top: 10px; */
+}
+.box3{
+    background-color:green;
+     height: 100px;
+     width: 100px;
+     display: inline-block;
+}
+.box4{
+    background-color: orange;
+     height: 100px;
+     width: 100px;
+     display: inline-block;
+}
