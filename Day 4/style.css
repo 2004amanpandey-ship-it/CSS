@@ -1,0 +1,29 @@
+h1{
+    background-color: darkcyan;
+     
+     /* border-width: 2px;
+    
+     border-style: solid;
+        border-color: blue;
+      */
+      /* height: 50vw;
+      width: 50vw; */
+      border: 2px solid red;
+      border-radius: 7px;
+}
+ul{
+    background-color: coral;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+p{
+    background-color: brown;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: 4px;
+}
+*{
+    margin: 0%;
+}
