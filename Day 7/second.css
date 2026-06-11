@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+}
+
+.first{
+    width: auto;
+    height: 45vh;
+    float: left;
+}
+ p{
+    margin: 10px;
+}
+.second{
+       width: auto;
+    height: 45vh;
+    float: left;
+    /* clear: left; */
+}
+}

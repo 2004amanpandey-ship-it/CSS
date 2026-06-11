@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+}
+
+#first{
+    height: 70vh;
+    width: 50vw;
+    background-color: cadetblue;
+    margin-left: 25vw;
+    overflow: auto;
+    border: 5px solid ;
+}
+h1{
+    text-align: center;
+}
