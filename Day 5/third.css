@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    background-color: blue;
+}
+#one,#three{
+      height: 40vh;
+    width: 30vw;
+    background-color: rgb(245, 241, 241);
+    display: inline-block;
+}
+#two,#four{
+       height: 40vh;
+    width: 62.6vw;
+    background-color: rgb(246, 239, 239);
+    display: inline-block;
+    margin-left: 6.4vw;
+}
+#four,#three{
+    margin-top:20vh ;
