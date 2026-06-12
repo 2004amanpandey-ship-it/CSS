@@ -1,0 +1,152 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: rgb(230, 230, 227);
+}
+.card{
+    display: inline-block;
+    position: relative;
+    margin: 15px;
+    border: 7px solid rgb(230, 230, 227);
+    cursor: pointer;
+    border-radius:25px ;
+
+}
+.card:hover{
+    background-color: white;
+    border-color: white;
+}
+.img{
+    height: 200px;
+    width: auto;
+    border-radius: 10px;
+    position: relative;
+}
+.box{
+    display: inline-block;
+}
+.rating,.cost,.distance{
+    position: absolute;
+    right: 5px;
+}
+.name{
+    font-size: 15px;
+    font-weight: bold;
+}
+.rating{
+    height: 17px;
+    background-color: darkgreen;
+    padding: 3px;
+    width: auto;
+    border-radius: 6px;
+    color: white;
+}
+.restaurant_name,.varities,.restaurant_place{
+    margin-top: 7px;
+}
+.varities{
+    color: rgb(78, 76, 76);
+}
+.place{
+    color: rgb(139, 131, 131);
+}
+.discount{
+    background-color:rgba(255, 0, 0, 0.5);
+    height: 20px;
+    width: 180px;
+    position: absolute;
+    bottom: 90px;
+    
+}
+p{
+    padding: 8px;
+    font-size: 25px;
+    color: white;
+}
+.first{
+    margin-left: 420px;
+}
+.search{
+    margin-left: 20px;
+}
+.button{
+    margin-left:80px ;
+}
+.placehol{
+    height: 30px;
+    width: 290px;
+    position: relative;
+    bottom: 10px;
+    margin-left: 60px;
+}
+button{
+    margin-left: 30px;
+    height: 30px;
+    width: auto;
+    position: relative;
+    bottom:10px ;
+    color: rgb(144, 140, 140);
+    border: none;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.head{
+    background-color: white;
+    padding-top: 5px;
+}
+.brand{
+    font-size: 27px;
+    font-weight: bolder;
+    color: rgb(146, 5, 5);
+  
+}
+.secondbutton{
+    margin-left: 120px;
+}
+.dine{
+    height: 80px;
+    width: 100px;
+ 
+}
+.box1{
+    position: relative;
+    bottom: 25px;
+   
+}
+.delivery ,.nightlife {
+    margin-left: 30px;
+}
+.second{
+    margin-top: 10px;
+}
+.third{
+    height: 800px;
+    background-color: rgb(247, 240, 240);
+    position: relative;
+      
+}
+.second{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+.dining,.collections{
+    margin-left: 420px;
+}
+.collect1{
+    height: 300px;
+    border-radius: 8px;
+    margin-left: 10px;
+   
+}
+.seefat{
+    display: inline-block;
+}
+.collect2{
+     position: relative;
+    bottom: 70px;
+    margin-left: 20px;
+}
