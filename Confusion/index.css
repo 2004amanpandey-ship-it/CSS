@@ -1,0 +1,45 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: cornflowerblue;
+}
+.container{
+    height: 7000vh;
+    width: 700vw;
+    background-color: cornsilk;
+    padding: 80px;
+    display: flex;
+    /* position: relative; */
+
+}
+.box{
+    height: 80px;
+    width: 80px;
+    background-color: blueviolet;
+   margin:1rem; 
+    padding: 1rem;
+
+}
+/* .box1{
+    position: relative;
+    right: 16px;
+}
+ .box2{
+    position: absolute;
+    top: 60px;
+    left: 60px;
+
+ } */
+  .box1{
+    /* width: 80vw; */
+    position: fixed;
+    top: 0%;
+    /* left: 0%;
+    right: 0%; */
+  }
