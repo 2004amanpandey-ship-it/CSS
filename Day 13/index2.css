@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    height: 80vh;
+    width: 80vw;
+    background-color: beige;
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 30vh;
+    width: 30vh;
+    background-color: blue;
+    font-size: 2rem;
+    color: rgb(202, 10, 55);
+    display: flex;
+     justify-content: center;
+    align-items: center;
+    /* box-shadow: -3px -3px 5px 12px red;
+     box-shadow:  inset 3px 5px 12px 6px red; */
+     box-shadow: 0px 0px 2px 12px rgb(163, 143, 53);
+     border-radius: 50%;
+     transition-property: all;
+     transition-duration: 2s;
+     transition-timing-function: ease-in;
+     transition-delay: 4s;
+}
+.box:hover{
+    background-color: beige;
+    height: 50vh;
+    width: 50vh;
+    /* border-radius: 50%; */
+}
